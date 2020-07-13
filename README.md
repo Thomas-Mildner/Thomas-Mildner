@@ -10,7 +10,7 @@
     "C# / .NET",
     "Java & Kotlin",
     "JavaScript / Typescrypt / CSS / HTML",
-    "Phyton",
+    "Python",
     "Scala"   
   ],
   "fullStackDeveloper": true,
