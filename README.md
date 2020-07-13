@@ -1,16 +1,32 @@
-### Hi there 👋
+<h2> Thomas Mildner </h2>
+<img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif"width="230">
+</p>
 
-<!--
-**Thomas-Mildner/Thomas-Mildner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Thomas-Mildner](https://img.shields.io/github/followers/Thomas-Mildner?label=follow&style=social)](https://github.com/Thomas-Mildner)
 
-Here are some ideas to get you started:
+```json
+{
+  "programming_languages": [
+    "C# / .NET",
+    "Java & Kotlin",
+    "JavaScript / Typescrypt / CSS / HTML",
+    "Phyton",
+    "Scala"   
+  ],
+  "fullStackDeveloper": true,
+  "tools_architectures": [
+   "Docker",
+   "Tensorflow / Keras",
+   "Prometheus / ELK Stack",
+   "Microservice_Architecture",
+   "Event-Driven-Design"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ],
+  "person": {
+    "FirstName": "Thomas",
+    "LastName": "Mildner",
+    "Location": "Munich - Bavaria 🍺"
+  },
+  "aboutMe": "I love coding 👨🏻‍💻 and solving 🐛"
+}
+```
