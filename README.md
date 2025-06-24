@@ -1,26 +1,32 @@
-<h2> Thomas Mildner </h2>
-<img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif"width="230">
+<h2 style="display: flex; align-items: center; justify-content: space-between;">
+  Thomas Mildner 
+</h2>
+
+<p>
+  <a href="https://github.com/Thomas-Mildner" target="_blank">
+    <img 
+      src="https://img.shields.io/github/followers/Thomas-Mildner?label=follow&style=social" 
+      alt="GitHub Follow"
+    />
+  </a>
 </p>
 
-[![GitHub Thomas-Mildner](https://img.shields.io/github/followers/Thomas-Mildner?label=follow&style=social)](https://github.com/Thomas-Mildner)
-
-```json
-{
+<pre>
+<code>{
   "programming_languages": [
     "C# / .NET",
     "Java & Kotlin",
-    "JavaScript / Typescrypt / CSS / HTML",
+    "JavaScript / TypeScript / CSS / HTML",
     "Python",
-    "Scala"   
+    "Scala"
   ],
   "fullStackDeveloper": true,
   "tools_architectures": [
-   "Docker",
-   "Tensorflow / Keras",
-   "Prometheus / ELK Stack",
-   "Microservice_Architecture",
-   "Event-Driven-Design"
-
+    "Docker",
+    "TensorFlow / Keras",
+    "Prometheus / ELK Stack",
+    "Microservice Architecture",
+    "Event-Driven Design"
   ],
   "person": {
     "FirstName": "Thomas",
@@ -28,5 +34,5 @@
     "Location": "Munich - Bavaria 🍺"
   },
   "aboutMe": "I love coding 👨🏻‍💻 and solving 🐛"
-}
-```
+}</code>
+</pre>
